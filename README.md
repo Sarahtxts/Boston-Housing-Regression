@@ -1,6 +1,3 @@
-
-***
-
 # Boston Housing Regression Tree Project
 
 This project demonstrates how to build and evaluate a **Decision Tree Regressor** for predicting housing prices using the classic Boston Housing dataset.
@@ -11,11 +8,12 @@ This project demonstrates how to build and evaluate a **Decision Tree Regressor*
 - **Dataset:** `Boston.csv` (contains 506 rows, 14 features like CRIM, ZN, INDUS, RM, etc.)
 
 ## 👩‍💻 Author
-Sarah S V
-B.Tech – Artificial Intelligence & Data Science
-Rajalakshmi Institute of Technology, Chennai
-📧 sarahsv.codes@gmail.com
-LinkedIn: https://www.linkedin.com/in/sarahsv3107/
+
+Sarah S V  
+B.Tech – Artificial Intelligence & Data Science  
+Rajalakshmi Institute of Technology, Chennai  
+📧 sarahsv.codes@gmail.com  
+[LinkedIn: https://www.linkedin.com/in/sarahsv3107/](https://www.linkedin.com/in/sarahsv3107/)
 
 ## 🛠️ Requirements
 - Python 3.x
@@ -50,7 +48,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Plots/Graphs:
     - Feature analysis
     - Prediction comparisons
-    - (Optional) Regression tree visualization
+    - Regression tree visualization
 
 ## 📚 References
 - [scikit-learn documentation](https://scikit-learn.org/)
